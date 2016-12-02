@@ -1,0 +1,1 @@
+﻿//Deleted everything from this Activity since it is not needed
