@@ -4,7 +4,7 @@ Customizable smiley that follows your fingers on the screen
 
 ## Motivation
 
-Made for an assignment at Utrecht University for "Mobiel Programmeren".
+Made for a course called: "Mobile Programming"
 
 ## Contributors
 Thanks to Tomasz Cielecki for the [ColorPicker] (https://github.com/Cheesebaron/MonoDroid.ColorPickers)

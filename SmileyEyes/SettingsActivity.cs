@@ -138,7 +138,7 @@ namespace SmileyEyes
             // Random
             Button btnRandom = new Button(this);
             btnRandom.Click += this.RandomizeSettings;
-            btnRandom.Text = "Ranomize!";
+            btnRandom.Text = "Randomize!";
 
             // Default
             Button btnDefault = new Button(this);
